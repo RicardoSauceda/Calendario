@@ -1,0 +1,1 @@
+INSERT INTO `tbl_eventos` (`id`, `fecha_inicio`, `fecha_fin`, `nombre_evento`, `estatus`, `cantidad_grup`, `min_grupo`, `num_part`, `hora_inicio`, `hora_fin`) VALUES (5, '2023-12-01 00:00:00', '2023-12-30 00:00:00', 'Evento Prueba 111223', 1, 25, 15, 10000, '08:30:00', '15:30:00');
